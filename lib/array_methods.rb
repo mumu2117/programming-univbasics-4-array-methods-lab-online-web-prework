@@ -13,7 +13,10 @@ famous_cats.sort
 end
 
 def using_reverse(array)
-a
+famous_wizards = ["Dumbledore", "Gandalf", "Merlin"]
+famous_wizards.reverse
+3	=> ["Merlin", "Gandalf", "Dumbledore"]
+
 end
 
 def using_first(array)
