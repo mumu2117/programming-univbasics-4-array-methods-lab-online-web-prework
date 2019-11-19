@@ -15,7 +15,7 @@ end
 def using_reverse(array)
 famous_wizards = ["Dumbledore", "Gandalf", "Merlin"]
 famous_wizards.reverse
-3	=> ["Merlin", "Gandalf", "Dumbledore"]
+=> ["Merlin", "Gandalf", "Dumbledore"]
 
 end
 
