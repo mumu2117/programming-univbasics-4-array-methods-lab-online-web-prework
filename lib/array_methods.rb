@@ -25,7 +25,6 @@ end
 
 def using_size(array)
   
-famous_cats = ["lil' bub", "grumpy cat", "Maru", "casper", "bumblebee", "gumbo"]
-famous_cats.size
+array.size
 
 end
