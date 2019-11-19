@@ -12,6 +12,7 @@ famous_cats.sort
 end
 
 def using_reverse(array)
+  
 famous_wizards = ["Dumbledore", "Gandalf", "Merlin"]
 famous_wizards.reverse
 
@@ -30,7 +31,8 @@ famous_cats.last
 end
 
 def using_size(array)
-famous_cats = ["lil' bub", "grumpy cat", "Maru"]
+  
+famous_cats = ["lil' bub", "grumpy cat", "Maru", "casper", "bumblebee", "gumbo"]
 famous_cats.size
 
 end
